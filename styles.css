@@ -1,0 +1,1697 @@
+/* ========== Text Styles ========== */
+hr { color: #000000}
+body, table /* Normal text */
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* Heading */
+{
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts2 /* Subheading */
+{
+ font-weight: bold;
+ color: #ff0000;
+}
+span.rvts3 /* Keywords */
+{
+ font-style: italic;
+ color: #800000;
+}
+span.rvts4
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #000080;
+}
+span.rvts5
+{
+ color: #800000;
+}
+span.rvts6
+{
+ font-size: 12pt;
+ font-family: 'Times New Roman', 'Times', serif;
+}
+span.rvts7
+{
+ font-family: 'Lora';
+}
+span.rvts8
+{
+ font-size: 11pt;
+ font-family: 'Lora';
+}
+span.rvts9
+{
+ font-size: 18pt;
+ font-family: 'Rough Draft';
+ font-weight: bold;
+ color: #99230b;
+}
+span.rvts10
+{
+ font-size: 18pt;
+ font-family: 'Lora';
+ color: #99230b;
+}
+a.rvts11, span.rvts11
+{
+ font-size: 11pt;
+ font-family: 'Lora';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts11:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts12
+{
+ font-weight: bold;
+ color: #000080;
+}
+a.rvts13, span.rvts13
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts13:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts14
+{
+ font-weight: bold;
+}
+span.rvts15
+{
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts16
+{
+ font-family: 'Arial Narrow';
+}
+span.rvts17
+{
+ font-family: 'Arial Narrow';
+ font-style: italic;
+}
+span.rvts18
+{
+ font-family: 'Centaur';
+}
+span.rvts19
+{
+ font-family: 'Courier New', 'Courier', monospace;
+}
+span.rvts20
+{
+ font-family: 'Garamond';
+}
+span.rvts21
+{
+ font-family: 'Harrington';
+}
+span.rvts22
+{
+ font-family: 'Latha';
+}
+span.rvts23
+{
+ font-family: 'Minion Pro Cond';
+}
+a.rvts24, span.rvts24
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts24:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts25, span.rvts25
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts25:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts26
+{
+ font-size: 12pt;
+ font-family: 'Lora';
+ color: #000000;
+}
+span.rvts27
+{
+ font-size: 20pt;
+ font-family: 'Rough Draft';
+ font-weight: bold;
+ color: #cb2e0f;
+}
+a.rvts28, span.rvts28
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts28:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts29, span.rvts29
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts29:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts30, span.rvts30
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts30:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts31
+{
+ font-size: 20pt;
+ font-family: 'Rough Draft';
+ font-weight: bold;
+ color: #99230b;
+}
+span.rvts32
+{
+ font-size: 20pt;
+ font-family: 'Rough Draft';
+ font-weight: bold;
+ color: #99230b;
+}
+span.rvts33
+{
+ font-size: 48pt;
+ font-family: 'Rough Draft';
+ font-weight: bold;
+ color: #99230b;
+}
+span.rvts34
+{
+ font-size: 12pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #99230b;
+}
+span.rvts35
+{
+ font-size: 16pt;
+ font-family: 'Rough Draft';
+ color: #99230b;
+}
+span.rvts36
+{
+ font-size: 12pt;
+ font-family: 'Lato Hairline';
+}
+a.rvts37, span.rvts37
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts37:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts38, span.rvts38
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts38:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts39, span.rvts39
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts39:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts40
+{
+ font-size: 12pt;
+ font-family: 'Lora';
+ font-style: italic;
+ color: #000000;
+}
+span.rvts41
+{
+ font-family: 'Lora';
+ font-weight: bold;
+}
+span.rvts42
+{
+ font-family: 'Lora';
+ color: #000000;
+}
+a.rvts43, span.rvts43
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts43:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts44, span.rvts44
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts44:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts45, span.rvts45
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts45:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts46, span.rvts46
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts46:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts47, span.rvts47
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts47:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts48, span.rvts48
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts48:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts49, span.rvts49
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts49:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts50, span.rvts50
+{
+ font-size: 12pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts50:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts51, span.rvts51
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts51:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts52, span.rvts52
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts52:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts53, span.rvts53
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts53:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts54
+{
+ font-size: 12pt;
+ font-family: 'Lora';
+ font-style: italic;
+}
+a.rvts55, span.rvts55
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts55:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts56, span.rvts56
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts56:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts57, span.rvts57
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts57:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts58
+{
+ font-size: 11pt;
+ font-family: 'Lora';
+ color: #000000;
+}
+span.rvts59
+{
+ font-size: 11pt;
+ font-family: 'Lora';
+ font-weight: bold;
+ color: #0f0101;
+}
+span.rvts60
+{
+ font-size: 7pt;
+ font-family: 'Lora';
+ color: #000000;
+ vertical-align: super;
+}
+span.rvts61
+{
+ font-size: 7pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ vertical-align: super;
+}
+span.rvts62
+{
+ font-family: 'Times New Roman', 'Times', serif;
+}
+span.rvts63
+{
+ font-size: 11pt;
+ font-family: 'Lora';
+ color: #0f0101;
+}
+span.rvts64
+{
+ font-size: 12pt;
+ font-family: 'Lora';
+ color: #0f0101;
+}
+span.rvts65
+{
+ font-size: 8pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ vertical-align: super;
+}
+a.rvts66, span.rvts66
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts66:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts67, span.rvts67
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts67:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts68, span.rvts68
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts68:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts69
+{
+ font-size: 34pt;
+ font-family: 'Rough Draft';
+}
+span.rvts70
+{
+ font-size: 20pt;
+ font-family: 'Rough Draft';
+ color: #cb2e0f;
+}
+span.rvts71
+{
+ font-size: 34pt;
+ font-family: 'Rough Draft';
+ color: #cb2e0f;
+}
+span.rvts72
+{
+ font-size: 34pt;
+ font-family: 'Rough Draft';
+ color: #cb2e0f;
+}
+span.rvts73
+{
+ font-size: 18pt;
+ font-family: 'Rough Draft';
+ font-weight: bold;
+ color: #cb2e0f;
+}
+a.rvts74, span.rvts74
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts74:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts75, span.rvts75
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts75:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts76, span.rvts76
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts76:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts77
+{
+ font-size: 8pt;
+ font-family: 'Lora';
+ color: #000000;
+ vertical-align: super;
+}
+a.rvts78, span.rvts78
+{
+ font-size: 18pt;
+ font-family: 'Rough Draft';
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts78:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts79, span.rvts79
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts79:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts80, span.rvts80
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts80:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts81, span.rvts81
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts81:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+span.rvts82
+{
+ font-size: 18pt;
+ font-family: 'Rough Draft';
+ font-weight: bold;
+ color: #99230b;
+}
+a.rvts83, span.rvts83
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts83:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts84, span.rvts84
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts84:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts85, span.rvts85
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts85:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts86, span.rvts86
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts86:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts87, span.rvts87
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts87:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts88, span.rvts88
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts88:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts89, span.rvts89
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts89:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts90, span.rvts90
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts90:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts91, span.rvts91
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts91:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts92, span.rvts92
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts92:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts93, span.rvts93
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts93:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts94, span.rvts94
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts94:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts95, span.rvts95
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts95:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts96, span.rvts96
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts96:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts97, span.rvts97
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts97:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts98, span.rvts98
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts98:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts99, span.rvts99
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts99:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts100, span.rvts100
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts100:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts101, span.rvts101
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts101:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts102, span.rvts102
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts102:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts103, span.rvts103
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts103:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts104, span.rvts104
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts104:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts105, span.rvts105
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts105:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts106, span.rvts106
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts106:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts107, span.rvts107
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts107:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts108, span.rvts108
+{
+ font-size: 12pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts108:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts109, span.rvts109
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts109:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts110, span.rvts110
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts110:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts111, span.rvts111
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts111:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts112, span.rvts112
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts112:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts113, span.rvts113
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts113:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts114, span.rvts114
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts114:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts115, span.rvts115
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts115:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts116, span.rvts116
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts116:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts117, span.rvts117
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts117:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts118, span.rvts118
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts118:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts119, span.rvts119
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts119:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts120, span.rvts120
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts120:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts121, span.rvts121
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts121:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts122, span.rvts122
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts122:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts123, span.rvts123
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts123:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts124, span.rvts124
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts124:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts125, span.rvts125
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts125:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts126, span.rvts126
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts126:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts127, span.rvts127
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts127:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts128, span.rvts128
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts128:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts129, span.rvts129
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts129:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts130, span.rvts130
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts130:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts131, span.rvts131
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts131:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts132, span.rvts132
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts132:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts133, span.rvts133
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts133:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts134, span.rvts134
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts134:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts135, span.rvts135
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts135:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts136, span.rvts136
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts136:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts137, span.rvts137
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts137:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts138, span.rvts138
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts138:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts139, span.rvts139
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts139:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts140, span.rvts140
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts140:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts141, span.rvts141
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts141:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts142, span.rvts142
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts142:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts143, span.rvts143
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts143:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts144, span.rvts144
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts144:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts145, span.rvts145
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts145:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts146, span.rvts146
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts146:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts147, span.rvts147
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts147:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts148, span.rvts148
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts148:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts149, span.rvts149
+{
+ font-size: 12pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts149:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts150, span.rvts150
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts150:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts151, span.rvts151
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts151:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts152, span.rvts152
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts152:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts153, span.rvts153
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts153:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts154, span.rvts154
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts154:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts155, span.rvts155
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts155:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts156, span.rvts156
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts156:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts157, span.rvts157
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts157:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts158, span.rvts158
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts158:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts159, span.rvts159
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts159:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts160, span.rvts160
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts160:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts161, span.rvts161
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts161:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts162, span.rvts162
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts162:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts163, span.rvts163
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts163:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts164, span.rvts164
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts164:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts165, span.rvts165
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts165:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts166, span.rvts166
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts166:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts167, span.rvts167
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts167:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts168, span.rvts168
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts168:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts169, span.rvts169
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts169:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts170, span.rvts170
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts170:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts171, span.rvts171
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts171:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts172, span.rvts172
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts172:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts173, span.rvts173
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts173:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts174, span.rvts174
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts174:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts175, span.rvts175
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts175:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts176, span.rvts176
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts176:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts177, span.rvts177
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts177:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts178, span.rvts178
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts178:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts179, span.rvts179
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts179:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts180, span.rvts180
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts180:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts181, span.rvts181
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts181:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts182, span.rvts182
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts182:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts183, span.rvts183
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts183:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts184, span.rvts184
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts184:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts185, span.rvts185
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts185:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts186, span.rvts186
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts186:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts187, span.rvts187
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts187:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts188, span.rvts188
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts188:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts189, span.rvts189
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts189:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts190, span.rvts190
+{
+ font-size: 12pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts190:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts191, span.rvts191
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts191:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts192, span.rvts192
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts192:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts193, span.rvts193
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts193:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts194, span.rvts194
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts194:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts195, span.rvts195
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts195:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts196, span.rvts196
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts196:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts197, span.rvts197
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts197:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts198, span.rvts198
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts198:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts199, span.rvts199
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts199:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts200, span.rvts200
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts200:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts201, span.rvts201
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts201:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts202, span.rvts202
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts202:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts203, span.rvts203
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts203:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts204, span.rvts204
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts204:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts205, span.rvts205
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts205:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts206, span.rvts206
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts206:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts207, span.rvts207
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts207:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts208, span.rvts208
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts208:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts209, span.rvts209
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts209:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts210, span.rvts210
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts210:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts211, span.rvts211
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts211:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts212, span.rvts212
+{
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts212:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts213, span.rvts213
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts213:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+a.rvts214, span.rvts214
+{
+ font-family: 'Minion Pro Cond';
+ color: #0000ff;
+ background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts214:hover { color: #0000ff; background-color: #ffffff; text-decoration: underline; }
+/* ========== Para Styles ========== */
+p,ul,ol /* Paragraph Style */
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* Centered */
+{
+ text-align: center;
+}
+.rvps2
+{
+ text-align: center;
+ line-height: 2.00;
+ page-break-inside: avoid;
+ page-break-after: avoid;
+ margin: 69px 0px 80px 0px;
+}
+.rvps3
+{
+ text-align: center;
+ margin: 0px 0px 7px 0px;
+}
+.rvps4
+{
+ margin: 0px 0px 7px 0px;
+}
+.rvps5
+{
+ text-align: right;
+}
+.rvps6
+{
+ text-align: justify;
+ text-indent: 28px;
+ line-height: 20px;
+}
+.rvps7
+{
+ text-indent: 47px;
+ margin: 0px 0px 8px 0px;
+}
+.rvps8
+{
+}
+.rvps9
+{
+ text-align: center;
+}
+.rvps10
+{
+ text-align: center;
+ text-indent: 28px;
+ line-height: 20px;
+}
+.rvps11
+{
+ text-indent: 47px;
+}
+.rvps12
+{
+ text-indent: 47px;
+ margin: 0px 0px 0px 96px;
+}
+.rvps13
+{
+}
+.rvps14
+{
+ text-indent: 101px;
+}
+.rvps15
+{
+ text-align: right;
+ text-indent: 28px;
+ line-height: 20px;
+}
+.rvps16
+{
+ line-height: 2.00;
+}
+.rvps17
+{
+ text-align: justify;
+ text-indent: -24px;
+ line-height: 20px;
+ margin: 0px 0px 0px 73px;
+}
